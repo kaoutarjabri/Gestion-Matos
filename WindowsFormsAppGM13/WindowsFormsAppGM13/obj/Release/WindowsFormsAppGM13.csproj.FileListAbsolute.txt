@@ -1,0 +1,12 @@
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Release\WindowsFormsAppGM13.exe.config
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Release\WindowsFormsAppGM13.exe
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Release\WindowsFormsAppGM13.pdb
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.csproj.AssemblyReference.cache
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.csproj.SuggestedBindingRedirects.cache
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.FormGenerale.resources
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.FormClient.resources
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.Properties.Resources.resources
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.csproj.GenerateResource.cache
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.csproj.CoreCompileInputs.cache
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.exe
+C:\Bac\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Release\WindowsFormsAppGM13.pdb

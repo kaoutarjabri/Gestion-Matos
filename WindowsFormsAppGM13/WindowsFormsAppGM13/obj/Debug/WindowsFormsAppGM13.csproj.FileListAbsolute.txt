@@ -1,0 +1,26 @@
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe.config
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.pdb
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.AssemblyReference.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.SuggestedBindingRedirects.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormGenerale.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormClient.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.Properties.Resources.resources
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.GenerateResource.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.CoreCompileInputs.cache
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.exe
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.pdb
+C:\Pro\BTS\F2I BTS2 SIO SLAM Init1\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormMatos.resources
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe.config
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.exe
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\bin\Debug\WindowsFormsAppGM13.pdb
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.AssemblyReference.cache
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.SuggestedBindingRedirects.cache
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormGenerale.resources
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormClient.resources
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.FormMatos.resources
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.Properties.Resources.resources
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.GenerateResource.cache
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.csproj.CoreCompileInputs.cache
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.exe
+C:\Users\kwtrj\Desktop\CS\WindowsFormsAppGM13\WindowsFormsAppGM13\obj\Debug\WindowsFormsAppGM13.pdb
